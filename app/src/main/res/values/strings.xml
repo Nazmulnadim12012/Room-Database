@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">newRoomDatabase</string>
+    <string name="student_name">Student name</string>
+    <string name="email_name">Student email</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+</resources>
